@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# ZO BOT ULTIMATE v10.0 - Complete System with Full Status Page
+# ZO BOT ULTIMATE v10.0منن - Complete System with Full Status Page
 # Created for Alpha in Zeta Realm
 
 import telebot
